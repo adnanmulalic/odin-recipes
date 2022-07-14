@@ -1,0 +1,13 @@
+body {
+    background-color: blanchedalmond;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+h1 {
+    border: 2px burlywood solid;
+}
+.anchorTags{ 
+    padding: 5px;
+    background-color: brown;
+    color: white;
+}
